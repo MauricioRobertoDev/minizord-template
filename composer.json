@@ -9,7 +9,8 @@
     "license": "MIT",
     "scripts":{
         "test": "vendor/bin/pest",
-        "test:coverage": "vendor/bin/pest --coverage"
+        "test:coverage": "vendor/bin/pest --coverage",
+        "style:fix": "vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.php --allow-risky=yes"
     },
     "autoload": {
         "psr-4": {
@@ -34,7 +35,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require-dev": {
-        "pestphp/pest": "^1.22"
+        "pestphp/pest": "^1.22",
+        "friendsofphp/php-cs-fixer": "^3.13"
     },
     "config": {
         "allow-plugins": {
