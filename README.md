@@ -69,7 +69,7 @@ Esse pacote tem o objetivo de...
 Instale o pacote {nome-do-pacote} com composer
 
 ```bash
-  composer install {nome-do-pacote}
+  composer require {nome-do-pacote}
 ```
 
 <!-- Examples -->
