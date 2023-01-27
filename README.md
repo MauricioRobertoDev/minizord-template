@@ -123,7 +123,7 @@ Para rodar os testes use o comando baixo
 
 Contribuições são sempre bem vindas!
 
-See `contributing.md` for ways to get started.
+<!-- See `contributing.md` for ways to get started. -->
 
 <br>
 
