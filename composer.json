@@ -1,0 +1,20 @@
+{
+    "name": "minizord/template",
+    "description": "Apenas o template para os componentes de Minizord.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Minizord\\Template\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mauricio Roberto",
+            "email": "mauricio.roberto.dev@gmail.com",
+            "role": "Author"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
